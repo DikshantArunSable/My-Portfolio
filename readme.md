@@ -17,5 +17,5 @@ Sources :-
 • Used Google's "Grotesk" font.
 ## Screenshots
 
-![App Screenshot](https://github.com/DikshantArunSable/My-Portfolio/blob/main/images/Screenshot_2022-10-27-17-33-01-97_a87fd7db6caa850b517aa6fa9d2fcd0e.jpg)
+![App Screenshot](ss.jpeg)
 
