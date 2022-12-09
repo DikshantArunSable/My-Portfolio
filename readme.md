@@ -12,9 +12,9 @@ Sources :-
 
 • Used "Animate On Scroll" library For Animation Purpose.
 
-• Icons are used from Font Awesome.
+• Icons are used from remix Icons.
 
-• Used Google's "Grotesk" font.
+• Used Google's "Inter" font.
 ## Screenshots
 
 ![App Screenshot](ss.jpeg)
