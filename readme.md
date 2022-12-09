@@ -15,6 +15,13 @@ Sources :-
 • Icons are used from remix Icons.
 
 • Used Google's "Inter" font.
+
+## Demo
+
+Link To Demo
+
+https://cutt.ly/DikshantSable
+
 ## Screenshots
 
 ![App Screenshot](ss.jpeg)
